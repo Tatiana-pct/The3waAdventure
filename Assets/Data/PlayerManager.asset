@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 221a41f1b66b1794283160403e4813be, type: 3}
+  m_Name: PlayerManager
+  m_EditorClassIdentifier: 
+  _maxHealth: 100
+  _currenthealth: 90
+  _maxlifeCount: 0
+  _currentLifeCount: 0
+  _attackTime: 1

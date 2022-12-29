@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ennemy
+  - sign
+  - Sign
+  - AttackBoxEnnemi
+  - AttackBoxPlayer
+  - Mentor
+  - pickupAbilities
+  - MentorDial
+  - pickupAbilitiesSprint
+  - pickupAbilitiesJump
+  - pickupAbilitiesDash
+  - pickupAbilitiesAttack
+  - Pnj
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - CameraBounds
+  - Water
+  - UI
+  - Ground
+  - WhatIsHitable
+  - Player
+  - Mentor
+  - Environnement
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3353091639
+    locked: 0
+  - name: props
+    uniqueID: 3271966849
+    locked: 0
+  - name: outlines
+    uniqueID: 1085332127
+    locked: 0
+  - name: Mentor
+    uniqueID: 453305945
+    locked: 0
